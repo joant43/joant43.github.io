@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Comfortaa|Dancing+Script);
+
+
+
+body {
+  background-color: #42f4aa;
+}
+
+h1 {
+  color: black;
+  font-family: "Dancing Script";
+  font-size: 300%;
+}
+
+h2 {
+  font-family: "Dancing Script";
+  font-size: 200%;
+}
+
+p {
+  font-family: "Comfortaa";
+  font-size: 90%;
+}
+
+img {
+  border-radius: 50%;
+  width: 20%;
+  height: 5%;
+}
